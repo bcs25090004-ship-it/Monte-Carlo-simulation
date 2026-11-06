@@ -7,6 +7,7 @@ This project explores parallelization techniques for Monte Carlo simulations usi
 * **Elin Tiong Yi Ning** - Baseline implementation & Static Scheduling
 * **Ealene Ting Hiong Siew** - Dynamic Scheduling & Task Queue Logic
 * **Emely Kong Ning** - Parallelism analysis, Task Dependency Graph & Performance Benchmarking
+* **John Eli Anak Ngelai** - Performance Benchmarking
 
 ## File Structure
 * `static.py` - Contains serial baseline and static parallel Monte Carlo implementation.

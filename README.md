@@ -11,6 +11,7 @@ This project explores parallelization techniques for Monte Carlo simulations usi
 
 ## File Structure
 * `static.py` - Contains serial baseline and static parallel Monte Carlo implementation.
+* `dynamic.py` - Dynamic scheduling and task queue logic implementation.
 
 ## How to Run
 Run the static parallel simulation script:
